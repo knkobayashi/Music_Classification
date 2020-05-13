@@ -7,3 +7,10 @@ The Test_Demo file contains our previous tests of youtube songs that work proper
 
 The Old Demo folder is the working directory where we tested and created the demos.
 The Model Selection folder contains the notebooks where we ran feature selection, as well as created and identified the best models for supervised and unsupervised.
+
+Credits:
+Ozgur Temmuz Celik
+Will Easterby
+Amr El-Azizi
+Ken Kobayashi
+Mohamed Aymen QABEL
